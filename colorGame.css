@@ -36,6 +36,10 @@ button:hover {
 	background: steelblue;
 }
 
+.hidden {
+	display: none;
+}
+
 .square {
 	width: 30%;
 	background: purple;
@@ -49,6 +53,10 @@ button:hover {
 }
 
 #colorDisplay {
+	font-size: 200%;
+}
+
+#numbers {
 	font-size: 200%;
 }
 
@@ -72,3 +80,4 @@ button:hover {
 	color: white;
 	background: steelblue;
 }
+
